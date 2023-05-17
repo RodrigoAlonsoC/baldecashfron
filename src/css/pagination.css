@@ -1,0 +1,5 @@
+.pagination_component {
+    display: inline-flex;
+    justify-content: center !important;
+    padding: 10px;
+}
